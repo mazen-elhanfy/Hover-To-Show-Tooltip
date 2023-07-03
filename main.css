@@ -59,7 +59,9 @@ content: "";
         text-transform: capitalize;
         white-space: nowrap;
         position: relative;
-}
+        font-weight:bold;
+        font-style: italic;
+    }
 .two:hover::before,
 .two:hover::after{
   opacity: 1;
